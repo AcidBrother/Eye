@@ -1,0 +1,5 @@
+{
+  "dbname":"accs.db",
+  "api_call_timeout":600,
+  "tsharkfile":"/tmp/my.pcap"
+}
